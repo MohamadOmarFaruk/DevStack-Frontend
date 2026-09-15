@@ -30,7 +30,7 @@ Stack
     i used it in two place in ui in the empty stack text and add button
 
     Q7 ans : i send data from parent to child i use direct prop and for a child to send data to parent he must have to use calback function a function that would pass down to child by parent but the function itself calls parent and need argument when that kind of function is passed down to an child component of course it will call it than it will need prop and the child component
-    will send the data to the function and the parent will receive it because the function exicution will be done in  parent coponent 
+    will send the data to the function and the parent will receive it because the function exicution will be done in  parent coponent
 
 - Also answer these React questions at the end of your Readme (write the answers in your own words, short and simple):
   1. What is JSX, and why is it used in React?
@@ -41,11 +41,6 @@ Stack
   6. What is conditional rendering? Show one place you used it (example: the empty stack message).
   7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
-**4. Where do we get the technology logos/icons?**
-You can use image URLs from Google or from anywhere you like. A good source with clean, ready-to-use tech logos is <https://techicons.dev/> — copy the icon URL from there and put it in your JSON data.
 
----
-
-## 📤 What to submit:
 - GitHub Repository Link:
 - Live Site Link:
