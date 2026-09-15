@@ -1,3 +1,4 @@
+import logoText from '@/assets/ui/logo-text.png'
 export default function Navbar() {
   return (
     <>
@@ -9,7 +10,7 @@ export default function Navbar() {
           </section>
 
           <section className="">
-            <img src="/assets/logo-text.png" alt="logo" />
+            <img src={logoText} alt="logo" />
           </section>
 
           <section className=" hidden md:block lg:block xl:block">

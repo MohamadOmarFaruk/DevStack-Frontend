@@ -1,3 +1,4 @@
+import bannerStack from '@/assets/ui/banner-stack.png'
 export default function Hero() {
   return (
     <section className="block container mx-auto  md:flex md:justify-between md:items-center">
@@ -15,7 +16,7 @@ export default function Hero() {
             </section>
       </section>
       <section className="">
-        <img src="../assets/banner-stack.png" alt="the banner stack image" className="w-155 mx-auto" />
+        <img src={bannerStack} alt="the banner stack image" className="w-155 mx-auto" />
       </section>
     </section>
   )
