@@ -42,5 +42,5 @@ Stack
   7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
 
-- GitHub Repository Link:
-- Live Site Link:
+- GitHub Repository Link:[text](https://github.com/MohamadOmarFaruk/DevStack-Frontend)
+- Live Site Link: [text](https://frolicking-daifuku-2c4f56.netlify.app/)
