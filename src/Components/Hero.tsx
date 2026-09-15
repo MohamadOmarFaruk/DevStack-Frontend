@@ -1,4 +1,4 @@
-import bannerStack from '@/assets/ui/banner-stack.png'
+import bannerStack from '../assets/banner-stack.png'
 export default function Hero() {
   return (
     <section className="block container mx-auto  md:flex md:justify-between md:items-center">

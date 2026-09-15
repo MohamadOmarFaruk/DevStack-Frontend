@@ -1,4 +1,4 @@
-import logoText from '@/assets/ui/logo-text.png'
+import logoText from '../assets/logo-text.png'
 export default function Navbar() {
   return (
     <>
